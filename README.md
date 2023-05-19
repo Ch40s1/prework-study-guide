@@ -2,7 +2,7 @@
 
 ## Description
  
-This Project was to take notes on 4 different subjects (HTML,CSS, Git, and Javascript) while building the website. The notes are key take-aways held in a site built for displaying how each subject relates to web building.  
+This Project was to take notes on 4 different subjects (HTML,CSS, Git, and Javascript) while building the website. The notes are key take-aways displaying how each subject influences web building. 
 
 ## Installation
 
